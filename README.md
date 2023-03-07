@@ -1,5 +1,4 @@
-# Everyone-Gets-a-README
-
+# Everyone Gets a README
   ## TABLE OF CONTENTS
   - [TITLE](#TITLE)
   - [DESCRIPTION](#DESCRIPTION)
@@ -18,10 +17,10 @@
   ### In order to use this application the user must have a working computer and have VScode downloaded. The user will then git clone the repo onto their computer. Following this, the user will now  git clone the repo to the local system. Users will now install the inquirer npm package. 
 
   ## USAGE
-  ### After all of the above installation instructions are completed, the user can now run the application using 'node index.js'. The user is then promped with questions within the command-line. After answering all of the questions, if answered correctly the user will be shown the word "success!". A professional ReadME file is then generated into a file and the user can now import it into their own ReadME.  
+  ### After all of the above installation instructions are completed, the user can now run the application using 'node index.js'. The user is then promped with questions within the command-line. After answering all of the questions, if answered correctly the user will be shown the word "success!". A professional ReadME file is then generated into a file and the user can now import it into their own ReadME.    
   
   ## LICENSE
-  ### None.
+  ### N/A
 
   ## CONTRIBUTION
   ### Developer: Brandon Ruano
@@ -29,9 +28,8 @@
   ## TEST
   ### In order to test this application, have the inquirer package installed and properly running node through the correct file. If complications arise please contact the developer.
 
-  ## GITHUB
+  ## Questions
+  ### If additional questions arise please reach out to:
   ### https://github.com/bruano95
-
-  ## EMAIL
   ### bruano@uw.edu
 
